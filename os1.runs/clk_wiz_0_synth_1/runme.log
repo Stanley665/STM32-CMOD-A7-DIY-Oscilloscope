@@ -1,0 +1,26 @@
+
+*** Running vivado
+    with args -log clk_wiz_0.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source clk_wiz_0.tcl
+
+
+ECHO is off.
+ECHO is off.
+
+****** Vivado v2023.2 (64-bit)
+  **** SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+  **** IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+  **** SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+    ** Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+
+source clk_wiz_0.tcl -notrace
+create_project: Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 455.754 ; gain = 183.098
+INFO: [IP_Flow 19-6924] IPCACHE: Running cache check for IP inst: clk_wiz_0
+INFO: [IP_Flow 19-6922] IPCACHE: Exporting cached entry f47256fdee81e601 to dir: C:/Users/stain/os1/os1.runs/clk_wiz_0_synth_1
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Users/stain/os1/os1.cache/ip/2023.2/f/4/f47256fdee81e601/clk_wiz_0.dcp to C:/Users/stain/os1/os1.runs/clk_wiz_0_synth_1/clk_wiz_0.dcp.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Users/stain/os1/os1.cache/ip/2023.2/f/4/f47256fdee81e601/clk_wiz_0_sim_netlist.v to C:/Users/stain/os1/os1.runs/clk_wiz_0_synth_1/clk_wiz_0_sim_netlist.v.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Users/stain/os1/os1.cache/ip/2023.2/f/4/f47256fdee81e601/clk_wiz_0_sim_netlist.vhdl to C:/Users/stain/os1/os1.runs/clk_wiz_0_synth_1/clk_wiz_0_sim_netlist.vhdl.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Users/stain/os1/os1.cache/ip/2023.2/f/4/f47256fdee81e601/clk_wiz_0_stub.v to C:/Users/stain/os1/os1.runs/clk_wiz_0_synth_1/clk_wiz_0_stub.v.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Users/stain/os1/os1.cache/ip/2023.2/f/4/f47256fdee81e601/clk_wiz_0_stub.vhdl to C:/Users/stain/os1/os1.runs/clk_wiz_0_synth_1/clk_wiz_0_stub.vhdl.
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP clk_wiz_0, cache-ID = f47256fdee81e601.
+INFO: [Common 17-206] Exiting Vivado at Mon Jul 13 21:11:51 2026...
